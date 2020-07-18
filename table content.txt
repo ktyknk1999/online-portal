@@ -1,0 +1,19 @@
+DATABSE NAME: l
+TABLE NAME: login
+TABLE CONTENT: 
+	name (varchar[50])
+	email (varchar[50])(primary key)
+	password(varchar[50])
+	pno (varchar[50])
+	image (varchar[50])
+	address1(varchar[50])
+	address2(varchar[50])
+	ccode(varchar[10])
+	pincode(varchar[10])
+	resume(varchar[50])
+
+
+
+*********************************************************************
+
+Main Login page is 'Loginpageprac.php'
